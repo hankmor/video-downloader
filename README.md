@@ -47,18 +47,18 @@
 
 ### Windows
 
-- [下载 vdd-windows-amd64.zip](https://github.com/hankmor/video-downloader/releases/latest)
+- [下载 vdd-(版本号)-windows-amd64-(full|lite).zip](https://github.com/hankmor/video-downloader/releases/latest)
 - 解压后双击 `vdd.exe` 即可使用。
 
 ### macOS
 
-- [下载 vdd-macos.zip](https://github.com/hankmor/video-downloader/releases/latest)
+- [下载 vdd-(版本号)-macos-(full|lite)-dmg.zip](https://github.com/hankmor/video-downloader/releases/latest)
 - 支持 Intel 和 Apple Silicon (M1/M2/M3)。
 - _注意：如果提示“无法验证开发者”，请按住 `Control` 键点击应用图标，选择“打开”。_
 
 ### Linux
 
-- [下载 vdd-linux-amd64.tar.xz](https://github.com/hankmor/video-downloader/releases/latest)
+- [下载 vdd-(版本号)-linux-amd64-(full|lite).tar.xz](https://github.com/hankmor/video-downloader/releases/latest)
 - 解压后在终端运行 `./vdd`。
 
 ---
