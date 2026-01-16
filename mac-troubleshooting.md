@@ -49,13 +49,13 @@
 
 3.  不要回车。**将 VDD 应用程序图标从 Finder 拖入终端窗口**。
 
-        - 终端会自动填入应用的完整路径，看起来像这样：
+- 终端会自动填入应用的完整路径，看起来像这样：
 
-        ```bash
-        sudo xattr -cr /Applications/VDD.app
-        ```
+    ```bash
+    sudo xattr -cr /Applications/VDD.app
+    ```
 
-    ![拖入终端示例](./assets/mac/拖入终端.png)
+![拖入终端示例](./assets/mac/拖入终端.png)
 
 4.  按下 **回车键 (Enter)**。
 5.  输入您的开机密码（输入时屏幕不会显示密码），然后按回车。
