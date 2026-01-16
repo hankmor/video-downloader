@@ -45,6 +45,9 @@
 
 请在右侧 **[Releases]** 页面下载最新版本：
 
+> 注意:
+> full 标记的为完整版，lite 标记的为精简版。
+
 ### Windows
 
 - [下载 vdd-(版本号)-windows-amd64-(full|lite).zip](https://github.com/hankmor/video-downloader/releases/latest)
