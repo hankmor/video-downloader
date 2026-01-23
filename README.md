@@ -4,6 +4,7 @@
 
 <img src="./assets/face/polor-main.png" width="800" alt="主界面" />
 <img src="./assets/face/cyberpunk-main.png" width="800" alt="主界面" />
+<img src="./assets/face/xcy.png" width="800" alt="主界面" />
 
 ## 主要特性
 
