@@ -2,21 +2,22 @@
 
 **VDD** 是一个高效、跨平台的视频下载工具，基于强大的 `yt-dlp` 内核构建。支持 YouTube、Bilibili、TikTok、Twitter (X)、Facebook 等全球主流视频平台。
 
-<img src="./assets/image.png" width="800" alt="主界面" />
+<img src="./assets/face/polor-main.png" width="800" alt="主界面" />
+<img src="./assets/face/cyberpunk-main.png" width="800" alt="主界面" />
 
 ## 主要特性
 
 - **多平台支持**：完美运行于 Windows、macOS 和 Linux。
 - **多站点解析**：支持 1000+ 视频网站（涵盖所有主流平台）。
-- **画质选择**：支持 4K、2K、1080P 等多种画质及音质选择。
+- **画质选择**：支持 8K、4K、2K、1080P 等多种画质及音质选择。
 - **自动下载**：可配置自动下载推荐的最佳画质。
 - **隐私模式**：支持配置代理和 Cookie，轻松访问受限内容。
-- **暗黑模式**：内置科技蓝（Dark/Light）主题，自动适应系统。
+- **暗黑模式**：内置多种主题风格，自动适应系统。
 
 ## 后续计划
 
-- [ ] 批量下载增强
-  - [ ] 批量下载
+- [x] 批量下载增强
+  - [x] 批量下载
   - [ ] 播放列表 (Playlist) 解析与下载
   - [ ] 频道 (Channel) 解析与下载
   - [ ] 批量链接一次性导入
@@ -76,7 +77,10 @@
 2.  **点击解析**：获取视频信息。
 3.  **选择下载**：点击列表中的“下载”按钮，等待完成。
 
-## 常见问题
+## 官方文档
 
-请参考 [常见问题](./qa.md)。
+VDD 使用飞书来管理文档，详见[这里](https://vdd-club.feishu.cn/wiki/IPIlwLnrTi0Jsgkwl7Rc27UHnle?from=from_copylink)。
+
+有任何问题和建议请直接提交 [issue](https://github.com/hankmor/video-downloader/issues), 或者加入**官方交流群**获得支持:
+<img src="./assets/qq_qrcode.jpg" width="400" alt="qq群" />
 
