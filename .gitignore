@@ -1,5 +1,34 @@
-.vscode
-*.bin
+# Editor
+.vscode/
+
+# OS
+.DS_Store
+
+# Build outputs
+build/
+fyne-cross/
 *.exe
 *.dSYM
-.Ds_store
+*.bin
+vdd-app
+vdd-cli
+
+# Runtime files
+*.log
+vdd.log
+*.db
+license.db
+
+# Downloaded third-party binaries
+assets/bin/
+utils/bundled/yt-dlp
+utils/bundled/yt-dlp.exe
+utils/bundled/ffmpeg
+utils/bundled/ffmpeg.exe
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.tar.xz
+*.dmg
