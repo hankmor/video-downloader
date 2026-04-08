@@ -12,6 +12,10 @@ fyne-cross/
 *.bin
 vdd-app
 vdd-cli
+vdd
+*.test
+*.out
+coverage.out
 
 # Runtime files
 *.log
@@ -32,3 +36,9 @@ utils/bundled/ffmpeg.exe
 *.tar.gz
 *.tar.xz
 *.dmg
+
+# IDE / temp
+.idea/
+*.swp
+*.tmp
+tmp/
