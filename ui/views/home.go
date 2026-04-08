@@ -190,7 +190,7 @@ func (v *HomeView) showCookieSettingsDialog() {
 	cfg := config.Get()
 
 	// 1. 复选框
-	cookieCheck := widget.NewCheck("启用", nil)
+	cookieCheck := widget.NewCheck("勾选以单独设置本次任务的 Cookie 文件", nil)
 	cookieCheck.Checked = v.useCookieFile
 
 	// 2. 路径显示行 (路径 + 按钮)
@@ -245,7 +245,6 @@ func (v *HomeView) showCookieSettingsDialog() {
 
 	// 弹窗内容容器
 	content := container.NewVBox(
-		widget.NewLabelWithStyle("勾选以单独设置本次任务的 Cookie 文件", fyne.TextAlignLeading, fyne.TextStyle{Bold: true}),
 		cookieCheck,
 		pathRow,
 	)
